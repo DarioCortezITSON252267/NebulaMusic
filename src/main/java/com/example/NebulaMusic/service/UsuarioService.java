@@ -1,4 +1,4 @@
-package service;
+package com.example.NebulaMusic.service;
 import com.example.NebulaMusic.model.Usuario;
 import org.springframework.stereotype.Service;
 import java.util.Map;

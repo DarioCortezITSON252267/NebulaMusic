@@ -1,4 +1,4 @@
-package service;
+package com.example.NebulaMusic.controller;
 
 import com.example.NebulaMusic.model.Usuario;
 import com.example.NebulaMusic.service.UsuarioService;
